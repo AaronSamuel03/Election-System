@@ -1,3 +1,5 @@
+/*  ELECTION SYSTEM  */
+
 #include <stdio.h>
 #define CANDIDATE_COUNT
 #define CANDIDATE1 "George Bush"
